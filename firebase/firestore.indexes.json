@@ -1,0 +1,36 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "CarsForRent",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IsLive",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "DateAdded",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "CarsForRent",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IsLive",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Category",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "DateAdded",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

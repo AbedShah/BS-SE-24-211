@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422125062613",
+    "project_id": "easecarapp",
+    "storage_bucket": "easecarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422125062613:android:65df605dd5f75e5270155c",
+        "android_client_info": {
+          "package_name": "com.mycompany.easecarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDyxKIidpFWfuWSO4i7vJxlu-ksWtN29c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

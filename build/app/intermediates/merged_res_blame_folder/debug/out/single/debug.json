@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.mycompany.easecarapp-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mycompany.easecarapp-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-merged_res-34:\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-main-27:\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-merged_res-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.mycompany.easecarapp-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mycompany.easecarapp-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mycompany.easecarapp-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mycompany.easecarapp-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-merged_res-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abods\\.gradle\\daemon\\7.5\\com.mycompany.easecarapp-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.mycompany.easecarapp-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mycompany.easecarapp-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mycompany.easecarapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mycompany.easecarapp-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
